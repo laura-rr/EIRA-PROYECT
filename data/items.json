@@ -1,0 +1,18 @@
+[
+    {
+        "id_item": "HER-001",
+        "nombre": "Martillo 1",
+        "categoria": "Herramientas",
+        "precio_compra": 50000.0,
+        "estado": "Bueno",
+        "disponible": true
+    },
+    {
+        "id_item": "VID-001",
+        "nombre": "Televisor",
+        "categoria": "Videojuegos",
+        "precio_compra": 100000.0,
+        "estado": "Bueno",
+        "disponible": false
+    }
+]

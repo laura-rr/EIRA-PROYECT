@@ -1,0 +1,3 @@
+id_prestamo,documento_usuario,nombre_usuario,id_item,nombre_item,categoria_item,fecha_prestamo,fecha_limite,estado,dias_transcurridos
+PRE-002,1000413,Holmer Ortega,VID-001,Televisor,Videojuegos,2025-04-01,2026-06-11,Vendido por Incumplimiento,426
+PRE-001,12345,Juan Perez,HER-001,Martillo 1,Herramientas,2026-06-01,2026-06-11,Devuelto,0

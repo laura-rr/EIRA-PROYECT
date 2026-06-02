@@ -1,0 +1,16 @@
+FACTURA DE VENTA POR INCUMPLIMIENTO
+====================================
+ID de venta: VEN-001
+Fecha de venta: 2026-06-01
+ID del préstamo: PRE-002
+Usuario: Holmer Ortega
+Documento: 1000413
+Ítem: Televisor
+ID del ítem: VID-001
+Categoría: Videojuegos
+Precio base: $100000.00
+Impuesto por conchudez (23%): $23000.00
+Total a pagar: $123000.00
+Días transcurridos: 426
+Motivo: El artículo superó los 30 días de préstamo y debe ser comprado por el prestador.
+====================================

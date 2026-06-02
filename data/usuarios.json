@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "documento": "12345",
+        "correo": "juan@gmail.com",
+        "tiempo_prestamo": 10
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "documento": "345",
+        "correo": "juanortega@mail.com",
+        "tiempo_prestamo": 30
+    },
+    {
+        "nombre": "Holmer",
+        "apellido": "Ortega",
+        "documento": "1000413",
+        "correo": "holmer@mail.com",
+        "tiempo_prestamo": 10
+    }
+]

@@ -1,0 +1,15 @@
+CERTIFICADO DE DEVOLUCIÓN
+====================================
+Fecha de devolución: 2026-06-01
+ID del préstamo: PRE-001
+Usuario: Juan Perez
+Documento: 12345
+Ítem: Martillo 1
+ID del ítem: HER-001
+Categoría: Herramientas
+Fecha del préstamo: 2026-06-01
+Fecha límite: 2026-06-11
+Días transcurridos: 0
+Estado final: Devuelto
+====================================
+Se certifica que el artículo fue devuelto correctamente.

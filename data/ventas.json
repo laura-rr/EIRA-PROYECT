@@ -1,0 +1,16 @@
+[
+    {
+        "id_venta": "VEN-001",
+        "id_prestamo": "PRE-002",
+        "documento_usuario": "1000413",
+        "nombre_usuario": "Holmer Ortega",
+        "id_item": "VID-001",
+        "nombre_item": "Televisor",
+        "categoria_item": "Videojuegos",
+        "fecha_venta": "2026-06-01",
+        "subtotal": 100000.0,
+        "impuesto": 23000.0,
+        "total": 123000.0,
+        "dias_transcurridos": 426
+    }
+]

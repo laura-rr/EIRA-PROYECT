@@ -1,0 +1,28 @@
+[
+    {
+        "id_prestamo": "PRE-001",
+        "documento_usuario": "12345",
+        "nombre_usuario": "Juan Perez",
+        "id_item": "HER-001",
+        "nombre_item": "Martillo 1",
+        "categoria_item": "Herramientas",
+        "fecha_prestamo": "2026-06-01",
+        "fecha_limite": "2026-06-11",
+        "estado": "Devuelto",
+        "fecha_devolucion": "2026-06-01",
+        "fecha_venta": ""
+    },
+    {
+        "id_prestamo": "PRE-002",
+        "documento_usuario": "1000413",
+        "nombre_usuario": "Holmer Ortega",
+        "id_item": "VID-001",
+        "nombre_item": "Televisor",
+        "categoria_item": "Videojuegos",
+        "fecha_prestamo": "2025-04-01",
+        "fecha_limite": "2026-06-11",
+        "estado": "Vendido por Incumplimiento",
+        "fecha_devolucion": "",
+        "fecha_venta": "2026-06-01"
+    }
+]
